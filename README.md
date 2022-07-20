@@ -21,11 +21,11 @@
 
 <br>
 
-<h3 align="center">Imagem prévia da aplicação: lista de posts</h3>
+<h3 align="center">Imagem prévia da aplicação: lista de imagem</h3>
 
 ![cover](.github/project-preview-01.png?style=flat)
 
-<h3 align="center">Imagem prévia da página de post selecionado</h3>
+<h3 align="center">Imagem prévia do cadastro de imagem</h3>
 
 ![cover](.github/project-preview-02.png?style=flat)
 
