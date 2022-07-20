@@ -73,7 +73,6 @@ const FileInputBase: ForwardRefRenderFunction<
       if (!event.target.files?.length) {
         return;
       }
-
       setImageUrl('');
       setLocalImageUrl('');
       setError('image', null);
@@ -83,7 +82,6 @@ const FileInputBase: ForwardRefRenderFunction<
       trigger('image');
 
       const formData = new FormData();
-
       formData.append(event.target.name, event.target.files[0]);
       formData.append('key', process.env.NEXT_PUBLIC_IMGBB_API_KEY);
 
